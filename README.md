@@ -1,0 +1,1 @@
+Go Trip is a fully responsive travel and tourism website designed using HTML, CSS, and JavaScript. It aims to provide travelers with an immersive experience, showcasing exciting destinations, tour packages, and essential travel information.
